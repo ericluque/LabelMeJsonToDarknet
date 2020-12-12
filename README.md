@@ -1,6 +1,6 @@
 # LabelMeJsonToDarknet
 
-This script converts all annotations files from labelme jason format
+This script converts all annotations files from labelme json format
 to Darknet yolo format ready to use.
 
 Also creates a labels.names with the correct order even if you guys don have it.
